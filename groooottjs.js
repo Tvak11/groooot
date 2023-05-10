@@ -17,13 +17,13 @@ function init() {
 
     // Load images
     playerImage = new Image();
-    playerImage.src = 'groot8b.png';
+    playerImage.src = './public/groot8b.png';
 
     coinImage = new Image();
-    coinImage.src = 'coin8b.png';
+    coinImage.src = './public/coin8b.png';
 
     doorImage = new Image();
-    doorImage.src = 'door8b.png';
+    doorImage.src = './public/door8b.png';
 
     // Set initial game state
     player = {

@@ -1,5 +1,5 @@
 body {
-    background-image: url('back8b.gif');
+    background-image: url('./public/back8b.gif');
     background-repeat: no-repeat;
     background-size: cover;
 }

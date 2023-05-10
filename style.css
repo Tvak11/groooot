@@ -1,5 +1,5 @@
 body {
-    background-image: url('back8b.gif');
+    background-image: url('./public/back8b.gif');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -35,7 +35,7 @@ body {
     position: absolute;
     width: 100px;
     height: 20px;
-    background-image: url('wood.png');
+    background-image: url('./public/wood.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
